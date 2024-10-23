@@ -5,10 +5,10 @@ const page = () => {
     <div className="max-w-6xl mx-auto p-3 space-y-4">
       <h1 className="text-2xl font-medium text-amber-600">About</h1>
       <p>
-        Next Movies is your ultimate destination for exploring movies, TV shows, and celebrity content, bringing you a vast database to dive deep into the world of entertainment. Whether you're searching for information about your favorite films, discovering new shows to watch, or learning more about actors and creators, our platform is designed to help you decide what to watch next.
+        Next Movies is your ultimate destination for exploring movies, TV shows, and celebrity content, bringing you a vast database to dive deep into the world of entertainment. Whether you are searching for information about your favorite films, discovering new shows to watch, or learning more about actors and creators, our platform is designed to help you decide what to watch next.
       </p>
       <p>
-        Our comprehensive database features millions of movies, TV shows, and entertainment programs, along with detailed profiles of cast and crew members. Whether you're looking to jog your memory about a movie or find the best show for your next binge, [Your Website Name] has you covered.
+        Our comprehensive database features millions of movies, TV shows, and entertainment programs, along with detailed profiles of cast and crew members. Whether you are looking to jog your memory about a movie or find the best show for your next binge, [Your Website Name] has you covered.
       </p>
       <p>
       We provide:
