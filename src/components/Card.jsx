@@ -9,6 +9,7 @@ const Card = ({result}) => {
           width={500}
           height={300}
           className="sm:rounded-t-lg"
+          alt="Movie Poster"
         >
           
         </Image>
